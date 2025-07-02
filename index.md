@@ -1,13 +1,7 @@
 ---
 layout: default
-title: ""
+title: letic.ia
 ---
-
-<style>
-.site-header .site-title {
-  display: none;
-}
-</style>
 
 # Letícia Melo  
 **Engenharia e Ciência de Dados**  
