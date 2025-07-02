@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-assets  # plugin para carregar assets
 
-title: ""
+title: "Página Inicial"
 description: "Engenharia e Ciência de Dados"
 logo: /assets/images/leticia.png
 
