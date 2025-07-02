@@ -3,7 +3,11 @@ layout: default
 title: Início
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+<style>
+.site-header .site-title {
+  display: none;
+}
+</style>
 
 # Letícia Melo  
 **Engenharia e Ciência de Dados**  
