@@ -3,9 +3,9 @@ layout: default
 title: Início
 ---
 
-# Letic.ia  
-**Dados que impulsionam pequenas decisões**  
+# Letícia Melo  
+**Engenharia e Ciência de Dados**  
 
 Soluções inteligentes e acessíveis em ciência de dados para pequenos negócios.
 
-[Sobre mim](/about) • [Serviços](/services) • [Portfólio](/portfolio) • [Contato](#contato)
+[Sobre](/about) • [Serviços](/services) • [Portfólio](/portfolio) • [Contato](/contato)
